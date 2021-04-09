@@ -1,7 +1,7 @@
 #-*- coding:utf-8 _*-  
 """ 
 @author:lupang 
-@file: 字符串归一化.py
+@file: 相同字符串出现次数.py
 @time: 2020/08/06 
 """
 '''
